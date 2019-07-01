@@ -1,0 +1,19 @@
+{
+  "name": "cssgrace",
+  "version": "1.0.0",
+  "description": "fork from https://github.com/lfire/cssgrace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.aiued.cn:444/aiued/cssgrace.git"
+  },
+  "keywords": [
+    "css",
+    "cssgrace"
+  ],
+  "author": "liyz8",
+  "license": "MIT"
+}
