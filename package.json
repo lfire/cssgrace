@@ -1,6 +1,6 @@
 {
   "name": "@lfire/cssgrace",
-  "version": "3.0.6",
+  "version": "3.0.7",
   "description": "CSS postproccessor, fork from cssgrace",
   "main": "lib/index.js",
   "author": {
