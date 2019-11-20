@@ -7,3 +7,4 @@ node_modules
 test/fixtures/*.actual.css
 npm-debug.log
 *.sublime-workspace
+package-lock.json
